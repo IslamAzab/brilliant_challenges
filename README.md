@@ -1,2 +1,2 @@
-# brilliant_challenges
-Some solutions to brilliant.org challenges
+# online_challenges
+Solutions to some online challenges.
